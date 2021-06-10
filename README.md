@@ -8,4 +8,4 @@
 # Install and initialization
 - on terminal type `npm install`
 - and `docker-compose -f docker-compose.sonar.yml up -d
-- Open on browser https://localhost:9090 and type the default credentials `admin` and `admin`
+- Open on browser https://localhost:9000 and type the default credentials `admin` and `admin`
